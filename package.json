@@ -1,0 +1,24 @@
+{
+  "name": "micro-blogs",
+  "version": "1.0.0",
+  "description": "fetching APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devNattan/Micro-Blogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devNattan/Micro-Blogs/issues"
+  },
+  "homepage": "https://github.com/devNattan/Micro-Blogs#readme",
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
