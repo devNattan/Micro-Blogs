@@ -20,5 +20,6 @@
   "homepage": "https://github.com/devNattan/Micro-Blogs#readme",
   "dependencies": {
     "vite": "^4.0.4"
-  }
+  },
+  "type": "module"
 }
